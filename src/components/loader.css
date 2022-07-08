@@ -1,0 +1,21 @@
+@keyframes animate-stroke {
+    0% {
+        stroke-dasharray: 1, 200;
+        stroke-dashoffset: 0;
+        stroke: red;
+    }
+    50% {
+        stroke-dasharray: 89, 200;
+        stroke-dashoffset: -35;
+        stroke: green;
+    }
+    100% {
+        stroke-dasharray: 89, 200;
+        stroke-dashoffset: -124;
+        stroke: blue;
+    }
+}
+
+.loade-path {
+    animation: animate-stroke 1.5s ease-in-out infinite;
+}

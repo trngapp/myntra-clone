@@ -1,0 +1,40 @@
+.Container{
+   display:grid;
+   grid-template-columns: repeat(7,1fr);
+   grid-template-rows: repeat(auto-fit,1fr);
+
+}
+.Box{
+   border:1px solid #dcdcdc;
+
+padding:23px;
+}
+.Box:first-child{
+
+grid-column: 1 / span 8;
+height: auto;
+
+}
+.Box:nth-child(3){
+   grid-column: 2/ span 7;
+   /*height: 700px;*/
+   height: 100%;
+}
+.Box:nth-child(2){
+   grid-column: 1/ span 1;
+   height: 100%;
+
+}
+@media screen and (max-width: 600px) {
+   .Box:nth-child(3){
+      grid-column: 1/ span 7;
+      height: 100%;
+   }
+   .Box:nth-child(2){
+      grid-column: 1/ span 7;
+      height: 100%;
+
+   }
+ };
+
+

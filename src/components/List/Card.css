@@ -1,0 +1,61 @@
+.CardContainer{
+    display:grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-template-rows: repeat(1,1fr);
+
+
+}
+.wishlist{
+    background: white;
+    width:100%;
+
+    height:20px;
+
+    margin-top: -0px;
+
+
+
+}
+.wishlist:hover{
+    height:50px;
+    transition: 0.5s;
+    margin-top: -30px;
+
+}
+.CardContainer:hover{
+    box-shadow: 0px 15px 10px -15px #111;
+}
+
+
+/*.wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}*/
+.slide{
+    background: white;
+    width:40px;
+    border:1px solid #C81132;
+    height:40px;
+    border-radius: 50%;
+    margin-top: -80px;
+    margin-left: 150px;
+}
+.h1{
+   visibility: hidden;
+}
+.h1:hover {
+   visibility: visible;
+}
+.slide:hover {
+    transition: 1s;
+    width:130px;
+    border-radius: 50px;
+    height:40px;
+    margin-top: -80px;
+    margin-left: 58px;
+  right: 0;
+}
+

@@ -1,0 +1,68 @@
+{
+
+    "item1":{
+        "id":1,
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18227518/2022/5/11/ae89abfc-b0b2-478d-bd5b-a3a59bc4fc3b1652252118962UnitedColorsofBenettonMenGreyTartanChecksCheckedCasualShirt1.jpg",
+        "name":"Louis Phillipe",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":1856,
+        "lastPrice":2000,
+        "discount":40
+
+    }
+    ,
+    "item2":{
+        "id":2,
+        "image":"data:image/jpeg;base64,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",
+        "name":"Van Heusen",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":1900,
+        "lastPrice":2300,
+        "discount":30
+    },
+    "item3":{
+        "id":3,
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18506510/2022/5/30/7c1ac04d-a383-4286-bd88-2149e58889851653908161856Shirts1.jpg",
+        "name":"Louis Phillipe",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":2000,
+        "lastPrice":3000,
+        "discount":25
+    },
+    "item4":{
+        "id":4,
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17769220/2022/4/5/b14f1245-3d4e-4ba5-ad38-a7d8aae23da01649169329096Shirts6.jpg",
+        "name":"Arrow",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":1800,
+        "lastPrice":3000,
+        "discount":30
+    },
+    "item5":{
+        "id":5,
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/1862801/2018/2/9/11518155061506-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-8861518155061131-1.jpg",
+        "name":"Peter England",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":1856,
+        "lastPrice":4000,
+        "discount":40
+    },
+    "item6":{
+        "id":6,
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17024048/2022/4/20/c0ddc12d-57ed-41ec-be63-141ff960e7291650452929324-WROGN-Men-Shirts-2471650452928736-1.jpg",
+        "name":"Arrow",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":2300,
+        "lastPrice":3000,
+        "discount":24
+    },
+    "item7":{
+        "id":7,
+        "image":"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5497710/2018/6/4/663ab406-ad4a-408a-b460-432d456d60701528102053577-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-853152810-1.jpg",
+        "name":"Louis Phillipe",
+        "type":"Men Slim Fit Formal Shirt",
+        "price":1500,
+        "lastPrice":2000,
+        "discount":20
+    }
+}
