@@ -55,7 +55,10 @@ const Product =()=>{
     setsizes([...sizes,size]);
     setids([...ids,id]);
 
-Show();
+setTimeout(() => {
+      Show();
+    }, 1000);
+
 
   }
   }
