@@ -105,6 +105,19 @@ useEffect(()=>{
             arr.push(Json[key]);
              }
           });
+              if(sorte!=null)
+          {
+              if(sorte==='price')
+              {
+              //console.log(sorte);
+              arr.sort((a,b)=>a.price>b.price?1:a.price<b.price?-1:0);
+              }
+              else if(sorte==='discount'){
+                //console.log(sorte);
+                arr.sort((a,b)=>a.discount>b.discount?1:a.discount<b.discount?-1:0);
+              }
+
+          }
 
         }
         else{
